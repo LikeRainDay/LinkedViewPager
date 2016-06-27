@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transparent_layer.xml",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\layout\\transparent_layer.xml"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewpager_slash.xml",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\layout\\activity_viewpager_slash.xml"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transparent_layer_image.xml",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\layout\\transparent_layer_image.xml"
+    }
+]

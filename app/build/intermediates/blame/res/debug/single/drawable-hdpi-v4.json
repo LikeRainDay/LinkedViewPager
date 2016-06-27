@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_view4.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\frame_view4.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_view1.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\frame_view1.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_view2.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\frame_view2.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_view5.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\frame_view5.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phone_frame.9.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\phone_frame.9.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CODE\\LinkedViewPager-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_view3.png",
+        "source": "D:\\CODE\\LinkedViewPager-master1\\app\\src\\main\\res\\drawable-hdpi\\frame_view3.png"
+    }
+]
